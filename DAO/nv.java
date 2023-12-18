@@ -225,7 +225,7 @@ public class nv {
                     out.println("Dữ liệu đã được cập nhật thành công!");
                 }else {
                     out = res.getWriter();
-                    out.println("Không thể cập nhật dữ liệu! Hãy chắc chắn rằng Mã Khách tồn tại.");
+                    out.println("Không thể cập nhật dữ liệu! .");
                 }
            
             }
